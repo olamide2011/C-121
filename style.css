@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(35, 196, 61);
+    text-align: center;
+}
+h1 {
+    color: rgb(31, 79, 209);
+    background-color: rgb(255, 251, 0);
+}
+#show_sketch {
+    float: right;
+}
+p {
+    padding: top 10px;
+    font-size: 25px;
+}
+canvas {
+    border: 5px white;
+    border-radius: 20px;
+    margin-top:10px ;
+}
